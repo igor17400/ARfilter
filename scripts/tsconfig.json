@@ -1,0 +1,1 @@
+{"include":["*.js"],"compilerOptions":{"baseUrl":"/private/var/folders/50/b52_dr3d72j6dzy764f9kngr0000gn/T/483249a13ae30a7248e6a2a6f7149d7a6b0a/skylight-typedefs","lib":["ES2015"],"outDir":"/private/var/folders/50/b52_dr3d72j6dzy764f9kngr0000gn/T/483249a13ae30a7248e6a2a6f7149d7a6b0a/skylight-typedefs/out-dir","allowJs":true,"checkJs":true}}
