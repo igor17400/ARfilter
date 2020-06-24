@@ -11,4 +11,7 @@ Taking into account covid-19 pandemic, prohibition of museums and art's therapeu
 
 While coming up with the AR filter we have created art pieces for the exhibition where each one spreads an black brazilian institution that tackles different and specific aspects of racism.
 
+# Youtube Pitch
+https://youtu.be/byv8UoyR2XI
+
 # Want the shearable link? Send me an email please! igorlima1740@gmail.com
