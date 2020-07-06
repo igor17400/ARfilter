@@ -14,4 +14,4 @@ While coming up with the AR filter we have created art pieces for the exhibition
 # Youtube Pitch
 https://youtu.be/byv8UoyR2XI
 
-# Want the shearable link? Send me an email please! igorlima1740@gmail.com
+# Want the shearable link? Here it is --> https://www.instagram.com/ar/294684801756113/?ch=NGNmYzkxZjMwYzQyNTA2M2I0MjA0Y2U4ZmE0MGFjMzU%3D
